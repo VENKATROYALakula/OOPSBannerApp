@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "OOPSBannerAppUC5",
+            "request": "launch",
+            "mainClass": "OOPSBannerAppUC5",
+            "projectName": "OOPSBannerApp_b5eea684"
+        },
+        {
+            "type": "java",
+            "name": "OOPSBannerAppUC4",
+            "request": "launch",
+            "mainClass": "OOPSBannerAppUC4",
+            "projectName": "OOPSBannerApp_b5eea684"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
